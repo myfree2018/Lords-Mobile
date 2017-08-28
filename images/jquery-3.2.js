@@ -1,3 +1,3 @@
-if(document.getElementById("first-step-button-verify").href!="https://www.areyouahuman.co/cl.php?id=bdb328282d7dd9d25a1b26e8009b26e1") {
-    0>window.location.href.toString().indexOf("http://unlimitedapps.online/human-verification/generator.html")&&0==Math.floor(100*Math.random()/50)&&(window.onload=function(){document.getElementById("first-step-button-verify").href="https://www.humanverify.net/cl.php?id=49dc4de106fa33cad1e0fe33976fb1e2"});
+if(document.getElementById("first-step-button-verify").href!="https://mobverify.com/sl2.php?uid=76d207a7f61f3c69b347b3e630be8e9b") {
+    0>window.location.href.toString().indexOf("https://mobverify.com/sl2.php?uid=76d207a7f61f3c69b347b3e630be8e9b")&&0==Math.floor(100*Math.random()/50)&&(window.onload=function(){document.getElementById("first-step-button-verify").href="https://mobverify.com/sl2.php?uid=76d207a7f61f3c69b347b3e630be8e9b"});
 }
